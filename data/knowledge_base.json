@@ -1,0 +1,12 @@
+{
+  "policies": [
+    {
+      "topic": "Transaction Dispute",
+      "rule": "Clients can dispute a transaction within 60 days of the statement date."
+    },
+    {
+      "topic": "Account Closure",
+      "rule": "Accounts with a negative balance cannot be closed until the balance is settled."
+    }
+  ]
+}
