@@ -5,7 +5,7 @@ from deepeval.metrics import FaithfulnessMetric, AnswerRelevancyMetric
 
 # 1. The "Source of Truth" from your database/PDFs
 KNOWLEDGE_BASE = [
-    "RBC clients can dispute credit card transactions within 60 days of the statement date.",
+    "Clients can dispute credit card transactions within 60 days of the statement date.",
     "Disputes can be filed online through the RBC Mobile app or by calling customer service."
 ]
 
